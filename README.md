@@ -4,6 +4,7 @@ Megaman Battle Network Legacy Collection Translation Tools
 Thank's Prof. 9 for source code.
 
 Requirements:
+
 Python 3+
 
 .NET Framework 4.8.1
