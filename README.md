@@ -5,8 +5,11 @@ Thank's Prof. 9 for source code.
 
 Requirements:
 Python 3+
+
 .NET Framework 4.8.1
+
 Notepad++
+
 ```bash
 Step 1: Copy your text files (message_eng.map and message_eng.mpak) to folder text_files
 
