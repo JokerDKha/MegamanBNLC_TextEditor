@@ -15,7 +15,7 @@ Step 1: Copy your text files (message_eng.map and message_eng.mpak) to folder te
 
 Step 2: Run Extract_Text.bat choice version Megaman Battle Network you want to extract
 
-Step 3: Now you have message_eng.tpl in main folder for searching text for translate
+Step 3: Now you have message_eng.tpl in main folder for searching text to translate
 
 Step 4: After done finding, you can find @archive to edit in folder output_edit 
 [Sample: You want to edit "Lan, wake up!" you need to find where text in @archive. 
